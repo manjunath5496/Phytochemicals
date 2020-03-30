@@ -125,3 +125,86 @@
 </div>
 </li>
 </ul>
+
+</br>
+
+
+
+<h2 id ="Books">Books </h2>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(1).pdf" style="text-decoration:none;">Regulatory RNAs</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(2).pdf" style="text-decoration:none;">The Basics of Biology</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(3).pdf" style="text-decoration:none;">Concepts of Biology</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(4).pdf" style="text-decoration:none;">Chemistry of Plant Natural Products</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(5).pdf" style="text-decoration:none;">My Max Score SAT Biology E/M Subject Test: Maximize Your Score in Less Time</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(6).pdf" style="text-decoration:none;">Plant Cell Biology: From Astronomy to Zoology</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(7).pdf" style="text-decoration:none;">Developmental Biology Protocols</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(8).pdf" style="text-decoration:none;">Biology of Soil Science</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(9).pdf" style="text-decoration:none;">Anatomy, Histology, and Cell Biology: PreTest Self-Assessment and Review</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(10).pdf" style="text-decoration:none;">Biochemistry, Molecular Biology, and Genetics</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(11).pdf" style="text-decoration:none;">Complete general science: Must for all IAS aspiring students Useful for preliminary and mains</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(12).pdf" style="text-decoration:none;"> Plant Nutrition - Molecular Biology and Genetics</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(13).pdf" style="text-decoration:none;">  Cell Biology, Genetics, Molecular Biology, Evolution and Ecology</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(14).pdf" style="text-decoration:none;"> Plant Biology and Biotechnology, Volume II: Plant Genomics and Biotechnology</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(15).pdf" style="text-decoration:none;">Statistics in Molecular Biology and Genetics</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(16).pdf" style="text-decoration:none;">Biology of Disease</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(17).pdf" style="text-decoration:none;">The Handy Biology Answer Book</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(18).pdf" style="text-decoration:none;">Bioinformatics and Computational Biology Solutions Using R and Bioconductor</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(19).pdf" style="text-decoration:none;">Biology of Marine Birds</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(20).pdf" style="text-decoration:none;"> Are We Smart Enough to Know How Smart Animals Are?</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(21).pdf" style="text-decoration:none;">Systems Biology: A Textbook</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(22).pdf" style="text-decoration:none;">Cell Biology Protocols</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(23).pdf" style="text-decoration:none;">A Level Biology for AQA</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(24).pdf" style="text-decoration:none;">Chemical and Biological Synthesis: Enabling Approaches for Understanding Biology</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(25).pdf" style="text-decoration:none;">Biology the Easy Way (E-Z Biology)</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(26).pdf" style="text-decoration:none;">Oxford Dictionary of Biochemistry and Molecular Biology </a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(27).pdf" style="text-decoration:none;">Advanced Biology through Inquiry</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(28).pdf" style="text-decoration:none;">Advances in marine biology advances in Cephalopod Science: Biology, Ecology, Cultivation and Fisheries. Volume-67</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(29).pdf" style="text-decoration:none;">Advances in Structural Biology, Volume 6</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(30).pdf" style="text-decoration:none;">The Manga Guide to Molecular Biology</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(31).pdf" style="text-decoration:none;">Immunology and Cell Biology of Parasitic Diseases</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(32).pdf" style="text-decoration:none;"> Genomics and Proteomics Engineering in Medicine and Biology</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(33).pdf" style="text-decoration:none;">Cancer Biology </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(34).pdf" style="text-decoration:none;">Basic Radiotherapy Physics and Biology</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(35).pdf" style="text-decoration:none;">The Evolution of the Genome</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(36).pdf" style="text-decoration:none;">Computational Systems Biology Methods in Molecular Biology, Chemistry Biology, Molecular Biomedicine, and Biopharmacy</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(37).pdf" style="text-decoration:none;">The Gale Encyclopedia of Alternative Medicine</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(38).pdf" style="text-decoration:none;">30 Years NEET-AIPMT Chapterwise Solutions - Biology </a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(39).pdf" style="text-decoration:none;"> Biology: Volume 4 Pr–Z Cumulative Index </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(40).pdf" style="text-decoration:none;">The Kingdom Fungi</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(41).pdf" style="text-decoration:none;">Stem Cells: From Basic Research to Therapy, Volume 1: Basic Stem Cell Biology, Tissue Formation during Development, and Model Organisms</a></li>                              
+
+
+</ul>
+
+</br>

@@ -159,50 +159,50 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(14).pdf" style="text-decoration:none;"> Mitochondria as Targets for Phytochemicals in Cancer Prevention and Therapy</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(15).pdf" style="text-decoration:none;">Modern Phytochemical Methods</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(16).pdf" style="text-decoration:none;">Biology of Disease</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(16).pdf" style="text-decoration:none;">Anti-malarial activity and phytochemical studies of cissampelos mucronata and Stephania Abyssinica</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(17).pdf" style="text-decoration:none;">The Handy Biology Answer Book</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(17).pdf" style="text-decoration:none;">Phytochemical Dictionary of the Leguminosae</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(18).pdf" style="text-decoration:none;">Bioinformatics and Computational Biology Solutions Using R and Bioconductor</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(19).pdf" style="text-decoration:none;">Biology of Marine Birds</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(20).pdf" style="text-decoration:none;"> Are We Smart Enough to Know How Smart Animals Are?</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(18).pdf" style="text-decoration:none;">Phytochemical Methods A Guide to Modern Techniques of Plant Analysis</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(19).pdf" style="text-decoration:none;">Phytochemical Potential of Tropical Plants</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(20).pdf" style="text-decoration:none;"> Phytochemical Resources for Medicine and Agriculture</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(21).pdf" style="text-decoration:none;">Systems Biology: A Textbook</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(21).pdf" style="text-decoration:none;">Phytochemical functional foods</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(22).pdf" style="text-decoration:none;">Cell Biology Protocols</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(22).pdf" style="text-decoration:none;">Phytochemicals – A Global Perspective of Their Role in Nutrition and Health</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(23).pdf" style="text-decoration:none;">A Level Biology for AQA</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(24).pdf" style="text-decoration:none;">Chemical and Biological Synthesis: Enabling Approaches for Understanding Biology</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(25).pdf" style="text-decoration:none;">Biology the Easy Way (E-Z Biology)</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(23).pdf" style="text-decoration:none;">Phytochemicals Isolation, Characterisation and Role in Human Health</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(24).pdf" style="text-decoration:none;">Phytochemicals - Bioactivities and Impact on Health</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(25).pdf" style="text-decoration:none;">Phytochemicals as Bioactive Agents</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(26).pdf" style="text-decoration:none;">Oxford Dictionary of Biochemistry and Molecular Biology </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(26).pdf" style="text-decoration:none;">Phytochemicals As Nutraceuticals: Global Approaches to Their Role in Nutrition and Health</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(27).pdf" style="text-decoration:none;">Advanced Biology through Inquiry</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(27).pdf" style="text-decoration:none;">Phytochemicals in Citrus: Applications in Functional Foods</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(28).pdf" style="text-decoration:none;">Advances in marine biology advances in Cephalopod Science: Biology, Ecology, Cultivation and Fisheries. Volume-67</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(29).pdf" style="text-decoration:none;">Advances in Structural Biology, Volume 6</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(30).pdf" style="text-decoration:none;">The Manga Guide to Molecular Biology</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(28).pdf" style="text-decoration:none;">Phytochemicals in Health and Disease</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(29).pdf" style="text-decoration:none;">Phytochemicals of Nutraceutical Importance</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(30).pdf" style="text-decoration:none;">Phytochemicals, Signal Transduction, and Neurological Disorders</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(31).pdf" style="text-decoration:none;">Immunology and Cell Biology of Parasitic Diseases</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(31).pdf" style="text-decoration:none;">Phytochemicals: Aging and Health</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(32).pdf" style="text-decoration:none;"> Genomics and Proteomics Engineering in Medicine and Biology</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(32).pdf" style="text-decoration:none;"> Phytochemicals: Nutrient–Gene Interactions</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(33).pdf" style="text-decoration:none;">Cancer Biology </a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(34).pdf" style="text-decoration:none;">Basic Radiotherapy Physics and Biology</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(33).pdf" style="text-decoration:none;">Phytochemistry of Medicinal Plants</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(34).pdf" style="text-decoration:none;">Polyphenols, Wine and Health: Proceedings of the Phytochemical Society of Europe, Bordeaux, France, 14th-16th April, 1999</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(35).pdf" style="text-decoration:none;">The Evolution of the Genome</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(36).pdf" style="text-decoration:none;">Computational Systems Biology Methods in Molecular Biology, Chemistry Biology, Molecular Biomedicine, and Biopharmacy</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(37).pdf" style="text-decoration:none;">The Gale Encyclopedia of Alternative Medicine</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(36).pdf" style="text-decoration:none;">Plant Cell Cultures for the Production of Phytochemicals - Anthocyanin and Capsaicin in Bioreactors</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(37).pdf" style="text-decoration:none;">The Biological Activity of Phytochemicals</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(38).pdf" style="text-decoration:none;">30 Years NEET-AIPMT Chapterwise Solutions - Biology </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(38).pdf" style="text-decoration:none;">The Formation, Structure, and Activity of Phytochemicals</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(39).pdf" style="text-decoration:none;"> Biology: Volume 4 Pr–Z Cumulative Index </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(39).pdf" style="text-decoration:none;"> The Geography of Phytochemical Races </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(40).pdf" style="text-decoration:none;">The Kingdom Fungi</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(41).pdf" style="text-decoration:none;">Stem Cells: From Basic Research to Therapy, Volume 1: Basic Stem Cell Biology, Tissue Formation during Development, and Model Organisms</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(40).pdf" style="text-decoration:none;">The Tree Nuts: Composition, Phytochemicals, and Health Effects</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(41).pdf" style="text-decoration:none;">Virtual Screening of Phytochemicals for Cancer Therapy</a></li>                              
 
 
 </ul>

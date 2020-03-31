@@ -146,7 +146,7 @@
                             
  <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(7).pdf" style="text-decoration:none;">Dietary Phytochemicals and Microbes</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(8).pdf" style="text-decoration:none;">Biology of Soil Science</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(8).pdf" style="text-decoration:none;">50 Years of Phytochemistry Research</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(9).pdf" style="text-decoration:none;">Dried Fruits: Phytochemicals and Health Effects</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(10).pdf" style="text-decoration:none;">Phytochemical Investigation of Euphorbia, Pouzolzia and Pavetta Species from Kumaon Himalayas</a></li>
 
@@ -192,7 +192,7 @@
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(33).pdf" style="text-decoration:none;">Phytochemistry of Medicinal Plants</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(34).pdf" style="text-decoration:none;">Polyphenols, Wine and Health: Proceedings of the Phytochemical Society of Europe, Bordeaux, France, 14th-16th April, 1999</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(35).pdf" style="text-decoration:none;">The Evolution of the Genome</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(35).pdf" style="text-decoration:none;">Kuwaiti Plants: Distribution, Traditional Medicine, Phytochemistry, Pharmacology, and Economic Value</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(36).pdf" style="text-decoration:none;">Plant Cell Cultures for the Production of Phytochemicals - Anthocyanin and Capsaicin in Bioreactors</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(37).pdf" style="text-decoration:none;">The Biological Activity of Phytochemicals</a></li>
@@ -203,6 +203,22 @@
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(40).pdf" style="text-decoration:none;">The Tree Nuts: Composition, Phytochemicals, and Health Effects</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(41).pdf" style="text-decoration:none;">Virtual Screening of Phytochemicals for Cancer Therapy</a></li>                              
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(42).pdf" style="text-decoration:none;">Textbook of Pharmacognosy and Phytochemistry</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(43).pdf" style="text-decoration:none;"> The Chemistry and Biochemistry of Plant Hormones</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(44).pdf" style="text-decoration:none;">Thin Layer Chromatography in Phytochemistry</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(45).pdf" style="text-decoration:none;">Medicinal and Aromatic Crops: Production, Phytochemistry, and Utilization</a></li>                              
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(46).pdf" style="text-decoration:none;">Phytochemistry in the Genomics and Post-Genomics Eras</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(47).pdf" style="text-decoration:none;">A Treatise on Phytochemistry</a></li>     
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Phytochemicals/blob/master/pyt(48).pdf" style="text-decoration:none;">Philippine medicinal plants in common use: Their phytochemistry & pharmacology</a></li>   
+
+
+
 
 
 </ul>
